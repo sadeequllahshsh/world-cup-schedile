@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World cup squad</title>
+</head>
+<body> <center><h1 style="color: blue;" style="background-color: chartreuse;" >ICC Cricket World Cup, 2023</h1></center>
+    <table cellpadding="30" cellspacing="50" bgcolor="aqua" >  
+<tr><td bgcolor="red">Matches</td> <td bgcolor="green">Venue</td> <td bgcolor="orange">Date</td></tr>
+
+<tr> <td bgcolor="red">England vs New Zealand</td> <td bgcolor="green">modi stadium</td> <td bgcolor="orange">5,oct 2k23</td></tr>
+  <tr> <td bgcolor="red"> Pakistan vs  Netherland </td> <td bgcolor="green"> hyderabad</td> <td bgcolor="orange">6 oct 2k23</td></tr>
+  <tr> <td bgcolor="red">Banglades vs Afghanistan</td> <td bgcolor="green"> dharamsala</td>  <td bgcolor="orange"> 7 0ct 2k23</td>    </tr>
+  <tr><td bgcolor="red"> South Africa vs Srilanka</td> <td bgcolor="green">Dehli</td> <td bgcolor="orange">7 oct 2k23</td>  </tr>
+<tr> <td bgcolor="red">India vs Australia</td> <td bgcolor="green">Channai</td> <td bgcolor="orange">8 oct 2k23</td></tr>
+<tr> <td bgcolor="red"> New zealand vs Netherlan</td> <td bgcolor="green"> Hyderabad</td> <td bgcolor="orange"> 9 oct  2k23</td></tr> 
+<tr> <td bgcolor="red"> England vs Bangladesh</td> <td bgcolor="green"> dharasmala</td> <td bgcolor="orange"> 10 oct 2k23</td></tr>
+<tr bgcolor="yellow"> <td>Pakistan vs Srilanka</td> <td>hyderabad</td> <td>10 oct 2k23</td></tr>
+<tr><td bgcolor="red">India vs Afghanistan</td> <td bgcolor="green">Dehli</td> <td bgcolor="orange">11 0ct 2k23</td></tr>
+<tr> <td bgcolor="red">Australia vs South Africa</td> <td bgcolor=" green"> dehli</td> <td bgcolor="orange"> 12 oct 2k23</td></tr>
+<tr> <td bgcolor="red">New zealand vs Bangladesh</td> <td bgcolor="green"> Hyderabad</td> <td bgcolor="orange"> 13 oct 2k23</td></tr>
+<tr bgcolor="yellow"> <td> Pakistan vs India</td> <td>Ahmed abad</td> <td>14 oct 2k23</td> 
+</tr>
+<tr> <td bgcolor="red">England vs Afghanistan</td> <td bgcolor="green"> hyderabad</td> <td bgcolor="orange">15 0ct 2k23</td></tr>
+<tr><td bgcolor="red"> Australia vs Srilanka</td> <td bgcolor="green">dehli</td> <td bgcolor="orange">16 0ct 2k23</td></tr>
+<tr><td bgcolor="red">inia vs bangladesh</td> <td bgcolor="green">hyderabad</td> <td bgcolor="orange">16 0ct 2k23</td></tr>
+<tr bgcolor="yellow"><td>Pakistan vs  Afghanistan</td> <td>Channai</td> <td>23 0ct 2k23</td></tr> 
+<tr> <td bgcolor="red">South africa vs Bangladesh</td> <td bgcolor="green"> mumbai</td> <td bgcolor="orange">24 oct 2k23</td></tr>
+<tr> <td bgcolor="red">Australia vs Netherland</td> <td bgcolor="green">ahmedabad</td> <td bgcolor="orange"> 25 oct 2k23</td></tr>
+<tr> <td bgcolor="red"> England vs srilanka</td> <td bgcolor="green">Channai</td> <td bgcolor="orange">26 oct 2k23</td> </tr>
+<tr bgcolor="yellow"><td> Pakistan vs South Africa</td><td>hyderabad</td> <td>27 oct 2023</td></tr>
+<tr> <td bgcolor="red">Australia vs New zealand</td> <td bgcolor="green">chennai</td> <td bgcolor="orange"> 28 0ct 2o23</td></tr>
+<tr><td bgcolor="red"> Netherland vs Bangladesh</td> <td bgcolor="green">hyderabad</td> <td bgcolor="orange">29 0ct 2k23</td></tr>
+<tr> <td bgcolor="red"> India vs England</td> <td bgcolor="green"> chaennai</td> <td bgcolor="orange">29 0ct 2023</td></tr>
+<tr> <td bgcolor="red"> Afghanistan vs srilanka</td> <td bgcolor="green"> hyderabad</td> <td bgcolor="orange"> 2 novm 2023</td></tr>
+<tr bgcolor="yellow"> <td>Pakistan VS Bangladesh</td> <td>mumbai</td> <td>3 novem 2023</td></tr>
+<tr> <td bgcolor="red">New zealand vs South Africa</td> <td bgcolor="green">chaennai</td> <td bgcolor="orange"> 4 novem 2023 </td></tr>
+<tr><td bgcolor="red">India vs Srilanka</td> <td bgcolor="green"> ahmed abad</td> <td bgcolor="orange">5 novem 2023</td></tr>
+<tr> <td bgcolor="red"> Netherland vs Afghanistan</td> <td bgcolor="green"> hyderabad</td> <td bgcolor="orange"> 6 novem 2023</td> </tr>
+<tr bgcolor="yellow"><td> Pakistan vs New zealand</td> <td> modi stadium</td> <td>6 cot 2023</td></tr>
+    
+<tr><td bgcolor="red">England vs Australia</td> <td bgcolor="green"> mumbai</td> <td bgcolor="orange">7 novem 2023</td></tr>
+<tr> <td bgcolor="red"> India vs South Africa</td> <td bgcolor="green"> modi</td> <td bgcolor="orange">8 novem 2023</td> </tr>
+
+
+  <tr bgcolor="yellow"> <td>Pakistan vs England </td> <td>hyderabad</td> <td>11 novem 2023</td></tr>
+
+
+
+
+
+
+
+
+
+</table>
+</body>
+</html>
